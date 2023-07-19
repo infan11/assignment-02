@@ -525,5 +525,7 @@ justify-content: space-evenly;
 
 /* mobile device */
 @media screen and (min-width:576px) {
-    
+    .footer{
+        flex-direction: column;
+    }
 }
