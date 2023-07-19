@@ -232,7 +232,298 @@ nav{
 }
 .king-image{
     width: 400px;
+    
 }
 .king-image-b{
     width: 200px;
+}
+/* section-super */
+.section-super{
+    margin: 60px;
+    display: flex;
+    gap: 350px;
+}
+.super-image{
+    width: 400px;
+    
+}
+   
+.super-content{
+    width: 500px;
+    
+}
+.super-color{
+    color: #F948B2;
+}
+.super-title{
+    color: #0B0223;
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+.super-description{
+    color: #534C64;
+    font-size: 14px;
+    font-weight: 400; 
+}
+/* play-kids section */
+.play-kids{
+    background-color: #FF42A5;
+    display: flex;
+    background-image: url('../images/Group\ 65.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 68%
+}
+.play-kids-content{
+    margin:60px
+}
+.play-kids-title{
+    color: white;
+font-size: 48px;
+
+font-weight: 700;
+}
+.play-kids-content p{
+    
+    color: white;
+font-size: 10px;
+font-weight: 400;
+}
+.box-container{
+    display: flex;
+}
+.box1{
+  list-style: none;
+  color: white;
+  font-size: 11px;
+  font-weight: 600;
+  /* border: 2px solid bisque; */
+  /* width: 300px; */
+  line-height: 30px;
+}
+.box2{
+  list-style: none;
+  color: white;
+  font-size: 11px;
+  font-weight: 600;
+  /* border: 2px solid bisque; */
+  /* width: 300px; */
+  line-height: 30px;
+  text-align: right;
+  
+}
+.super-button{
+    color: #FF42A5;
+    font-size: 20px;
+    padding: 20px 20px;
+    font-weight: 600;
+    border-radius: 10px ;
+    border: 1px solid white;
+}
+/* logo-section starts */
+.logo{
+    margin: 60px;
+}
+.logo-container-a{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.logo-1{
+    display: flex;
+    gap: 10px;
+}
+.logo-1:hover{
+    padding: 10px  10px;
+    border-radius: 10px;
+    border: 2px solid steelblue;
+}
+.logo-1 p{
+    color: #0B0223;
+    font-size: 12px;
+    font-weight: 600;
+    
+}
+.logo-2{
+    display: flex;
+    gap: 10px;
+}
+.logo-2:hover{
+    padding: 10px  10px;
+    border-radius: 10px;
+    border: 2px solid steelblue;
+}
+.logo-2 p{
+    color: #0B0223;
+    font-size: 12px;
+    font-weight: 600;
+
+}
+.logo-3{
+    display: flex;
+    gap: 10px;
+    
+}
+.logo-3:hover{
+    padding: 10px  10px;
+    border-radius: 10px;
+    border: 2px solid steelblue;
+}
+.logo-3 p{
+    color: #0B0223;
+    font-size: 12px;
+    font-weight: 600;
+
+}
+.logo-4{
+    display: flex;
+    gap:10px
+}
+.logo-4:hover{
+    padding: 10px  10px;
+    border-radius: 10px;
+    border: 2px solid steelblue;
+}
+.logo-4 p{
+    color: #0B0223;
+    font-size: 12px;
+    font-weight: 600;
+    
+}
+.logo-5{
+    display: flex;
+    gap:10px
+}
+.logo-5:hover{
+    padding: 10px  10px;
+    border-radius: 10px;
+    border: 2px solid steelblue;
+}
+.logo-5 p{
+    color: #0B0223;
+    font-size:12px;
+    font-weight: 600;
+}
+/* logo-container-b */
+.logo-container-b{
+    display: flex;
+    gap: 80px;
+    
+}
+.logo-6{
+    display: flex;
+    gap: 10px;
+}
+.logo-6:hover{
+    padding: 10px  10px;
+    border-radius: 10px;
+    border: 2px solid steelblue;
+}
+.logo-6 p{
+    color: #0B0223;
+    font-size: 12px;
+    font-weight: 600;
+    
+}
+.logo-7{
+    display: flex;
+    gap: 10px;
+}
+.logo-7:hover{
+    padding: 10px  10px;
+    border-radius: 10px;
+    border: 2px solid steelblue;
+}
+.logo-7 p{
+    color: #0B0223;
+    font-size: 12px;
+    font-weight: 600;
+
+}
+.logo-8{
+    display: flex;
+    gap: 10px;
+    
+}
+.logo-8:hover{
+    padding: 10px  10px;
+    border-radius: 10px;
+    border: 2px solid steelblue;
+}
+.logo-8 p{
+    color: #0B0223;
+    font-size: 12px;
+    font-weight: 600;
+
+}
+.logo-9{
+    display: flex;
+    gap:10px
+}
+.logo-9:hover{
+    padding: 10px  10px;
+    border-radius: 10px;
+    border: 2px solid steelblue;
+}
+.logo-9 p{
+    color: #0B0223;
+    font-size: 12px;
+    font-weight: 600;
+}
+/* footer starts */
+
+.footer{
+    background-color: #0B0223;
+    height: 500px;
+    
+}
+.footer-logo{
+    width: 40px;
+    object-fit: cover;
+}
+.footer h3{
+    color:#fff;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+.footer-title{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-title li{
+    list-style: none;
+}
+/* footer icon */
+.icon{
+    text-align: center;
+    margin: 50px;
+}
+.footer-ruls{
+    display: flex;
+    color: lightgray;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 500;
+justify-content: space-evenly;
+}
+.footer-ruls li{
+    list-style: none;
+}
+.footer-privacy{
+    color: lightgray;
+    text-align: center;
+    font-size: 16px;
+    font-family: Work Sans;
+    font-weight: 500;
+    
+}
+
+/* mobile device */
+@media screen and (min-width:576px) {
+    
 }
